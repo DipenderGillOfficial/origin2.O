@@ -1,6 +1,0 @@
-{
-  "name": "OmniStock WMS",
-  "description": "Warehouse location hierarchy (Row/Bin), live product-to-bin tracking, instant order intake pick routing, audit trail movements, and admin row dashboard.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
